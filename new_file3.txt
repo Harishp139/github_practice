@@ -1,0 +1,5 @@
+github commands 
+git clone 
+git add file.txt
+git commit -m "added file"
+git push origin main 
